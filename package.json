@@ -1,0 +1,17 @@
+{
+  "name": "style-object",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "minodisk",
+  "license": "MIT",
+  "dependencies": {
+    "css": "^2.2.1",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.upperfirst": "^4.3.1"
+  }
+}
