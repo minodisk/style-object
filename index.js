@@ -1,4 +1,4 @@
-import {parse} from './node_modules/css/'
+import {parse} from 'css'
 import camelCase from 'lodash.camelcase'
 import upperFirst from 'lodash.upperfirst'
 
